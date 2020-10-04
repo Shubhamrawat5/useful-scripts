@@ -1,0 +1,17 @@
+Generate IPL live score and then paste it to whatsapp and send =======>
+
+REQUIRED LIBRARIES:-
+pip install keyboard
+pip install requests
+pip install pycricbuzz
+
+pycricbuzz is to get the data of live matches
+so to get the details we have to give the matchid in the id variable given.
+To get matchid, execute file and then edit the matchid (as every match has its own unique matchid, also there can be more than cricket match going on so have to do manually)
+
+then it will automatically generate beautiful score like:
+RCB: 107/4 (12.4)
+V Kohli: 21(10) ABD 23(16)
+
+now open whatsapp in browser and it will automatically write the score and will press enter
+

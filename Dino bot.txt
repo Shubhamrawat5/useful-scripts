@@ -1,0 +1,15 @@
+Google offline dino game bot ============>
+
+REQUIRED LIBRARIES:-
+pip install pyautogui
+pip install numpy
+pip install pillow
+
+Edit the box tupple in imagegrab() function and change its coordinates according to your screen
+the coordinates are (x1,y1 and x2,y2)
+also with your screen resolution and change in coordinates, different a.sum() value will come so also change it afterwards
+
+Working: imagegrab() function keeps on taking the image of the coordinates given and change it to a grayscale image then make array out of it
+so normally the image is all white in front of dinosaur so same array sum will generate
+if any obstacles come then array sum will change and then jump function will be called 
+by pyautogui library space key will be pressed automatically
