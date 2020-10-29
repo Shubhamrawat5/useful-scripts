@@ -1,0 +1,13 @@
+This is to find those accounts whom you follow on instagram but they don't follow you!
+
+Instruction:-
+1) paste whole html code of your insta followers page in htmlFollowers.txt file.
+2) paste whole html code of your insta following page in htmlFollowing.txt file.
+3) execute Make Followers List and Make Following List python files.
+4) Now in followers.txt and following.txt data list will be created and stored.
+5) Now execute instaFind.py file.
+6) Now instaResult will have a list of all the accounts whom you are following but they are not following you!
+
+
+Required python library:- 
+bs4 (pip install bs4)
