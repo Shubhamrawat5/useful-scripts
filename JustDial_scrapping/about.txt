@@ -1,0 +1,6 @@
+Scrapped contact name,phone number,address from Just Dial website!
+
+the html content of the page of just dial is in jd.txt and after executing jistdial.py , a list1.txt will be created with the desired data!
+
+libraries required:-
+pip install bs4

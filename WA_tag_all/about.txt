@@ -1,0 +1,6 @@
+To TAG EVERYONE IN A WHATSAPP GROUP:-
+
+just modify the loop count and after execution place your cursor on whatsapp group chat message box!
+
+Required libraries:-
+pip install keyboard
