@@ -1,0 +1,11 @@
+// 1st group
+var group1 = document.querySelector("._7yrSq").innerText.split(",")
+
+
+// 2nd group
+var group2 = document.querySelector("._7yrSq").innerText.split(",")
+
+
+
+// result
+group1.filter(value => group2.includes(value));

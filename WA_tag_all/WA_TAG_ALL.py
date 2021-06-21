@@ -3,7 +3,7 @@ import time
 
 time.sleep(2)
 
-for i in range(22): #number of members count
+for i in range(25): #number of members count
     print(i)
     keyboard.press_and_release('shift+@')
 

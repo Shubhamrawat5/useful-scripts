@@ -1,0 +1,4 @@
+Collect and give news from 10-11 website from my public news-api -> 'https://news-pvx.herokuapp.com/'
+
+Require- python
+library- requests

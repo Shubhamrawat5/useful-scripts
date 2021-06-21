@@ -1,0 +1,4 @@
+let memberList = [];
+
+//open group one by one and run below code in console!
+memberList=memberList.concat(document.querySelector("._7yrSq").innerText.split(",").filter(value => !memberList.includes(value)));
